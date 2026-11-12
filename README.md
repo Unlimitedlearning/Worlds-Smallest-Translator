@@ -20,7 +20,7 @@
 ## 🚀 如何使用？
 
 ### 方式一：直接下载（推荐普通用户）
-
+⚠️ 安全提示：由于本软件使用 PyInstaller 打包且无数字签名，Windows 可能会提示“不安全”。这是个人开源小工具的常见情况。请点击“更多信息” -> “仍要运行”，或在 Windows 安全中心添加信任。
 1. 去右侧的 [Releases](https://github.com/Unlimitedlearning/Worlds-Smallest-Translator/releases) 页面下载 `translator.exe`。
 2. **右键**点击 `translator.exe`，选择“**以管理员身份运行**”（因为监听全局快捷键需要权限）。
 3. 保持黑框在后台运行。选中任意文字，按下 `Ctrl + C` 试试！
